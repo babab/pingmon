@@ -1,0 +1,8 @@
+{
+  "name": "pingmon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "dc964917"
+}
